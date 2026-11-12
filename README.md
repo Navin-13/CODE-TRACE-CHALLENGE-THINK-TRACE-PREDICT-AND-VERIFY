@@ -33,7 +33,7 @@ Navin_N_DSA_Task2_Submission/
 ├── Report/
 │   ├── Navin_N_RA2510042050010_DSA_Task2_Report_Final.docx
 │   └── Navin_N_RA2510042050010_DSA_Task2_Report_Final.pdf
-├── Screenshots/
+├── screenshots/
 │   ├── 00_program_output.png
 │   ├── 01_test_case_basic_lifo.png
 │   ├── 02_test_case_overflow.png
@@ -112,6 +112,6 @@ The program demonstrates the LIFO behavior of a stack using an array. The `push(
 ## Evidence and Report
 
 - `Report/` contains the final editable Word report and its PDF copy.
-- `Screenshots/` contains the main program output and one output screenshot for each test case.
+- `screenshots/` contains the main program output and one output screenshot for each test case.
 - `Handwritten/` contains the supplied handwritten assessment PDF and its three page images.
 
